@@ -1,0 +1,9 @@
+body {
+    font-family: system-ui, sans-serif;
+    display: grid;
+    place-items: center;
+    background-color: #f4f4f9;
+  }
+  h1 {
+    color: #333;
+  }
